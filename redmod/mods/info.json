@@ -1,0 +1,5 @@
+{
+	"name": "Saving Areas Restricted",
+	"description": "Prevent the player from saving the game while inside a hostile/restricted zone",
+	"version": "1.61.3.1"
+}
